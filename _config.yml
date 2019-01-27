@@ -9,6 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 url:                https://fish1ng.github.io
+# url:                http://127.0.0.1:4000/
 
 # Jekyll
 permalink:          /:title/
@@ -38,6 +39,8 @@ disqus_shortname:   dartlang
   #ad-slot:
 #bing-verify:
 email:              conteudo@dartlang.com.br
+onesignal:          e6bd030f-c917-41dd-802f-f0edacdfa76d
+analytics:          UA-133296572-1  
 #twitter:            conteudo@dartlang.com.br
 # facebook:           username
 #github-url:         username
