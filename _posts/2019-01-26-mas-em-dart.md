@@ -24,3 +24,8 @@ Mas, e aí… Mata ou não mata o JavaScript? Na minha opinião, tem fortes chan
 Desenvolvo com Ionic há pelo menos quatro anos, e, digo com propriedade… Foi ÓTIMO enquanto durou, mas, já vai tarde! Olá Dart, AngularDart e Flutter!
 Espero ter esclarecido um pouco mais sobre essa linguagem maravilhosa que a Google nos concebeu, e, te desafio a olhar a nossa sessão de [links úteis]({{ site.url }}/links){:target="_blank"} e começar a se aprofundar no tema!
 Te espero no Dart side!
+
+---
+
+**Publicado por** Leonardo Marinho
+{: .notice}

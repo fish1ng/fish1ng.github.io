@@ -1,5 +1,5 @@
 # Site
-title:              Dart Brasil
+title:              Dart Lang Brasil
 bio:                'Conteúdo de qualidade mais rápido que a millenium falcon'
 description:        "Comunidade brasileira de desenvolvedores Dart"
 reading_time:       true
@@ -8,8 +8,8 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                https://fish1ng.github.io
-# url:                http://127.0.0.1:4000/
+url:                http://dartlang.com.br
+# url:                http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
@@ -42,7 +42,8 @@ email:              conteudo@dartlang.com.br
 onesignal:          e6bd030f-c917-41dd-802f-f0edacdfa76d
 analytics:          UA-133296572-1  
 #twitter:            conteudo@dartlang.com.br
-# facebook:           username
+#facebook:           username
+fbgroup:            https://web.facebook.com/groups/dartlangbr/?ref=br_rs
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
