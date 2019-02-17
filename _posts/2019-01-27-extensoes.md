@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Extensões"
+title:  "Extensões criadas pela comunidade brasileira"
 subtitle: "Está sabendo de alguma extensão legal?<br><a href='mailto:conteudo@dartbrasil.com.br' style='font-weight: normal;'>Manda para a gente!</a>"
 excerpt: "Extensões criadas pela comunidade brasileira"
 date: 2019-01-27
