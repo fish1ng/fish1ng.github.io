@@ -20,3 +20,5 @@ comments: true
 [ip_localizacao - Mateus Penha](https://pub.dartlang.org/packages/ip_localizacao)
 <br>
 [hidden_drawer_menu - RafaelBarbosatec](https://pub.dartlang.org/packages/hidden_drawer_menu)
+<br>
+[flutter_cielo - Jacob Moura](https://pub.dartlang.org/packages/flutter_cielo)
