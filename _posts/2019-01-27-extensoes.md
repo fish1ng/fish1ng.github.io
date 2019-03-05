@@ -11,18 +11,14 @@ comments: true
 ---
 
 
-[encrypt - leocavalcante](https://pub.dartlang.org/packages/encrypt?fbclid=IwAR1-JxnMjFyIwPM_ChOu89YxU7erjECaRNFwC9Z1TtnV6bFLqaUqAjRWR1A)
-<br>
-[via_cep - Mateus Penha](https://pub.dartlang.org/packages/via_cep)
-<br>
-[ip_externo - Mateus Penha](https://pub.dartlang.org/packages/ip_externo)
-<br>
-[ip_localizacao - Mateus Penha](https://pub.dartlang.org/packages/ip_localizacao)
-<br>
-[receita_ws - Mateus Penha](https://pub.dartlang.org/packages/receita_ws/versions/1.0.0)
-<br>
-[hidden_drawer_menu - RafaelBarbosatec](https://pub.dartlang.org/packages/hidden_drawer_menu)
-<br>
-[flutter_cielo - Jacob Moura](https://pub.dartlang.org/packages/flutter_cielo)
-<br>
-[dart_mssql - Moacir Schmidt](https://pub.dartlang.org/packages/dart_mssql)
+|       Extensão       |      Finalidade      |         Link         |        Criador       |
+|----------------------|----------------------|----------------------|----------------------|
+| encryp               |  Criptografia        | [click aqui](https://pub.dartlang.org/packages/encrypt){:target="_blank"} | Leonardo Cavalcante | 
+| via_cep              |  Busca por cep       | [click aqui](https://pub.dartlang.org/packages/via_cep){:target="_blank"} | Mateus Penha        | 
+| ip_externo           |  Obter o IP externo  | [click aqui](https://pub.dartlang.org/packages/ip_externo){:target="_blank"}{:target="_blank"} | Mateus Penha     | 
+| ip_localizacao       |  Localização via IP  | [click aqui](https://pub.dartlang.org/packages/ip_localizacao){:target="_blank"} | Mateus Penha | 
+| receita_ws           |  Consultar CNPJ      | [click aqui](https://pub.dartlang.org/packages/receita_ws/){:target="_blank"} | Mateus Penha    | 
+| hidden_drawer_menu   |  Drawer Menu         | [click aqui](https://pub.dartlang.org/packages/hidden_drawer_menu){:target="_blank"} | Rafael Barbosa  |  
+| flutter_cielo        |  Jacob Moura         | [click aqui](https://pub.dartlang.org/packages/flutter_cielo){:target="_blank"} | Rafael Barbosa  |  
+| dart_mssql           |  Moacir Schmidt      | [click aqui](https://pub.dartlang.org/packages/dart_mssql){:target="_blank"}    | Rafael Barbosa  |  
+| cpf_cnpj_validator   |  Leonardo Caldas     | [click aqui](https://pub.dartlang.org/packages/cpf_cnpj_validator){:target="_blank"}    | Rafael Barbosa  |  
