@@ -11,10 +11,33 @@ comments: true
 ---
 
 
-[![Começando do ZERO com Dart Lang - 2019](/assets/img/curso-dart.jpg)](https://www.udemy.com/dart-basico/?couponCode=DARTBRASIL){:target="_blank"}
+[![Curso completo de Dart Lang, do básico ao infinito e além!](/assets/img/cursos/curso-dart.jpg)](https://www.udemy.com/dart-basico/){:target="_blank"}
 
 
 ### Curso completo de Dart Lang, do básico ao infinito e além!
 Curso completo de Dart Lang em português focado para iniciantes, intermediários e avançados. O intuito do curso é ensinar os conceitos necessários para iniciar o desenvolvimento na nossa linguagem queridinha! 
 
-Este [link](https://www.udemy.com/dart-basico/?couponCode=DARTBRASIL){:target="_blank"} está com um cupom de desconto dedicado para os leitores aqui do Dart Brasil! :D
+[Click aqui](https://www.udemy.com/dart-basico/){:target="_blank"}  para acessar o curso
+
+
+---
+
+[![Dart Lang para web, do básico ao infinito e além!](/assets/img/cursos/curso-dart-web.jpg)](https://www.udemy.com/dart-lang-web){:target="_blank"}
+
+### Dart Lang para web, do básico ao infinito e além!
+Curso completo de Dart Lang para web em português focado para iniciantes, intermediários e avançados. O intuito do curso é ensinar os conceitos necessários para iniciar o desenvolvimento web front e backend com Dart! 
+
+[Click aqui](https://www.udemy.com/dart-lang-web){:target="_blank"} para acessar o curso
+
+
+---
+
+[![Curso de Dart Lang](/assets/img/cursos/curso-dart-basico.jpg)](https://www.udemy.com/curso-de-dart-lang-completo/){:target="_blank"}
+
+### Curso de Dart Lang
+Curso básico de Dart Lang para web em português focado para iniciantes.
+
+[Click aqui](https://www.udemy.com/curso-de-dart-lang-completo/){:target="_blank"} para acessar o curso
+
+
+
