@@ -19,6 +19,6 @@ comments: true
 | ip_localizacao       |  Localização via IP  | [click aqui](https://pub.dartlang.org/packages/ip_localizacao){:target="_blank"} | Mateus Penha | 
 | receita_ws           |  Consultar CNPJ      | [click aqui](https://pub.dartlang.org/packages/receita_ws/){:target="_blank"} | Mateus Penha    | 
 | hidden_drawer_menu   |  Drawer Menu         | [click aqui](https://pub.dartlang.org/packages/hidden_drawer_menu){:target="_blank"} | Rafael Barbosa  |  
-| flutter_cielo        |  Jacob Moura         | [click aqui](https://pub.dartlang.org/packages/flutter_cielo){:target="_blank"} | Rafael Barbosa  |  
-| dart_mssql           |  Moacir Schmidt      | [click aqui](https://pub.dartlang.org/packages/dart_mssql){:target="_blank"}    | Rafael Barbosa  |  
-| cpf_cnpj_validator   |  Leonardo Caldas     | [click aqui](https://pub.dartlang.org/packages/cpf_cnpj_validator){:target="_blank"}    | Rafael Barbosa  |  
+| flutter_cielo        |  Uso da Cielo         | [click aqui](https://pub.dartlang.org/packages/flutter_cielo){:target="_blank"} | Jacob Moura  |  
+| dart_mssql           |  Driver MySql      | [click aqui](https://pub.dartlang.org/packages/dart_mssql){:target="_blank"}    | Moacir Schmidt  |  
+| cpf_cnpj_validator   |  Validador de dados     | [click aqui](https://pub.dartlang.org/packages/cpf_cnpj_validator){:target="_blank"}    | Leonardo Caldas  |  
